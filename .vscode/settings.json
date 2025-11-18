@@ -1,0 +1,21 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "git.ignoreMissingGitWarning": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.editor.empty.hint": "hidden",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "json.schemas": [],
+
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        }
+    ],
+
+    "liveSassCompile.settings.generateMap": true
+}
